@@ -1,0 +1,4 @@
+<resources>
+    <style name="Base.Theme.BottomNavProblem" parent="Theme.Material3.DayNight" />
+    <style name="Theme.BottomNavProblem" parent="Base.Theme.BottomNavProblem" />
+</resources>
